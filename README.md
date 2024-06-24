@@ -3,7 +3,7 @@
 - 💻 I work full-time as a Data Integrations Analyst
 - 🏄🏻‍♂️ 🏋🏻 I like to surf and lift weights
 
-
+![Top Langs](https://github-readme-stats-mocha-pi-35.vercel.app/api/top-langs/?username=marcosetm)
 
 
 <!--
