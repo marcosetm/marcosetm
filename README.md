@@ -3,7 +3,7 @@
 - 💻 I work full-time as a Data Integrations Analyst
 - 🏄🏻‍♂️ 🏋🏻 I like to surf and lift weights
 
-![Top Langs](https://github-readme-stats-iota-ten-45.vercel.app//api/top-langs/?username=marcosetm&langs_count=6)
+![Top Langs](https://github-readme-stats-iota-ten-45.vercel.app//api/top-langs/?username=marcosetm&langs_count=10)
 
 <!--
 **marcosetm/marcosetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
