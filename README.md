@@ -3,7 +3,7 @@ I'm a passionate data professional with a strong technical foundation and a knac
 
 I'm currently working as a Data Integrations Specialist managing intricate data workflows, working with relational databases like PostgreSQL and MySQL and leveraging Python and Bash to streamline processes. I enjoy tackling challenges in data integration and optimization, always aiming to deliver efficient, scalable solutions for our clients. 
 
-At the moment, I'm pursuing a degree in **Bachelor of Scicnet in Software Engineering** to deepen my skills so I can transition into a data engineering role, where I can contribute to building robust and impactful data systems. Let's connect and build something amazing together!
+At the moment, I'm pursuing a degree in **Bachelor of Science in Software Engineering** to deepen my skills so I can transition into a data engineering role, where I can contribute to building robust and impactful data systems. Let's connect and build something amazing together!
 
 ![Top Langs](https://github-readme-stats-iota-ten-45.vercel.app//api/top-langs/?username=marcosetm&langs_count=10&layout=compact&theme=dracula)
 
